@@ -8,6 +8,10 @@ tagline: My Code Blog
 ## Just Starting This Blog
 
 And I am still customizing and setting it up. Until it is actually active you can see posts I have written [here](http://www.stephanmiller.com).
+
+I am leaving one of the default posts here on the blog just so that I have some notes on how to use Jekyll which is what powers this blog. Plus a [link](http://jekyllbootstrap.com/usage/jekyll-quick-start.html) here, so I remember how to post to this thing.
+
+I am using the Twitter Bootstrap theme with the Superhero template from [Bootswatch](http://bootswatch.com/).
     
 ## Recent Posts
 
