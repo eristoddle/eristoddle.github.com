@@ -14,7 +14,7 @@ html, body {
 
 /* The white background content wrapper */
 .content {
-  background-color: #fff;
+  background-color: #2A333C;
   padding: 20px;
   margin: 0 -20px; /* negative indent the amount of the padding to maintain the grid system */
   -webkit-border-radius: 0 0 6px 6px;
