@@ -4,7 +4,7 @@ tagline: My book on Piwik
 title: "A Rudimentary Plugin for Piwik Ecommerce Tracking on Zen Cart"
 description: "Piwik Ecommerce Tracking for Zen Cart"
 category: PHP
-tags: [PHP,zen cart,piwik,ecommerce]
+tags: [PHP, zen cart, piwik, ecommerce]
 ---
 {% include JB/setup %}
 
