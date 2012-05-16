@@ -20,7 +20,7 @@ While git is great and all, on windows it is huge. I wanted to find other ways o
     - Jinja2 templating
     - Importing from Wordpress and other blogs
     
-## Possible Candidates
+##Possible Candidates
 
     - [https://github.com/borismus/lightning](https://github.com/borismus/lightning) - uses dropbox for syncing posts
     - [https://github.com/piranha/cyrax](https://github.com/borismus/lightning) - Based on jekyll. Uses Jinja2. Markdown, reST or textile.
@@ -43,7 +43,7 @@ While git is great and all, on windows it is huge. I wanted to find other ways o
     - [https://github.com/tylerbutler/engineer](https://github.com/tylerbutler/engineer) - Research
     - [https://github.com/galvez/fab-publish](https://github.com/galvez/fab-publish) - Maybe use for remote deployment other than git. Brings up the possibility of using fab, waf or doit along with an ftp python class.
     
-+ With a GUI
+## With a GUI
 
     - [Thingamablog](http://www.thingamablog.com/)
     - [Fire Drop](http://www.voidspace.org.uk/python/firedrop2/)
