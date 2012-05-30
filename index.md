@@ -20,7 +20,3 @@ I am using the Twitter Bootstrap theme with the Superhero template from [Bootswa
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
-
-##CoderWall
-
-<section class="coderwall" data-coderwall-username="eristoddle" data-coderwall-orientation="horizontal"></ section> 
