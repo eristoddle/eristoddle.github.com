@@ -5,9 +5,9 @@ tagline: My Code Blog
 ---
 {% include JB/setup %}
 
-## Just Starting This Blog
+## I Used to Keep Most of this in Wikidpad
 
-And I am still customizing and setting it up. Until it is actually active you can see posts I have written [here](http://www.stephanmiller.com).
+So most of these posts are lists, notes and the like that I don't want to forget.
 
 I am leaving one of the default posts here on the blog just so that I have some notes on how to use Jekyll which is what powers this blog. Plus a [link](http://jekyllbootstrap.com/usage/jekyll-quick-start.html) here, so I remember how to post to this thing.
 
@@ -20,3 +20,6 @@ I am using the Twitter Bootstrap theme with the Superhero template from [Bootswa
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
+
+##CoderWall
+<section class="coderwall" data-coderwall-username="eristoddle" data-coderwall-orientation="horizontal"></section>
