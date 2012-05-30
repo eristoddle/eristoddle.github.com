@@ -22,4 +22,5 @@ I am using the Twitter Bootstrap theme with the Superhero template from [Bootswa
 </ul>
 
 ##CoderWall
-<section class="coderwall" data-coderwall-username="eristoddle" data-coderwall-orientation="horizontal"></section>
+
+<section class="coderwall" data-coderwall-username="eristoddle" data-coderwall-orientation="horizontal"><//section>
