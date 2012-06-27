@@ -41,14 +41,13 @@ These aren't just libraries but full apps. There are plenty of libraries availab
 - [Sphere](https://github.com/pointlessjon/sphere)
 - [Lithium Site](https://gitorious.org/lithium-site)
 - [Marques Project](http://code.google.com/p/marques-project/)
-- [marques-project](http://code.google.com/p/marques-project/)
 - [lithe](https://github.com/eristoddle/lithe) - My blog, in progress, but I will be using it actively within the month. Not the best example. My first.
 
 ###Gists
 
-- http://pastie.org/2663865/wrap
-- https://gist.github.com/1063377
-- http://www.smipple.net/snippet/psparrow/Filtering%20Model%3A%3Asave()%20in%20Lithium
+- (http://pastie.org/2663865/wrap)
+- (https://gist.github.com/1063377)
+- (http://www.smipple.net/snippet/psparrow/Filtering%20Model%3A%3Asave()%20in%20Lithium)
 
 ###Favorite Tuts
 
