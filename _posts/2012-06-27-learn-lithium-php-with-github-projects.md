@@ -42,6 +42,7 @@ These aren't just libraries but full apps. There are plenty of libraries availab
 - [Lithium Site](https://gitorious.org/lithium-site)
 - [Marques Project](http://code.google.com/p/marques-project/)
 - [lithe](https://github.com/eristoddle/lithe) - My blog, in progress, but I will be using it actively within the month. Not the best example. My first.
+- [Minerva](https://github.com/tmaiaroto/minerva)
 
 ###Gists
 
